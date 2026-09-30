@@ -1,7 +1,6 @@
 # Hi there, I'm Carlos Olivares! 👋
 
 ![Banner Image](github_banner_final.png)
-)
 
 ## About Me 🚀
 
